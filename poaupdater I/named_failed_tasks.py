@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from poaupdater import uSysDB
 from poaupdater import uLogging
 from poaupdater import openapi
